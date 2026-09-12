@@ -1,0 +1,6 @@
+{
+  "name": "BAYU SOCIAL INTELLIGENCE",
+  "description": "Data-driven social media analytics, content intelligence, audience growth and recommendation platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
